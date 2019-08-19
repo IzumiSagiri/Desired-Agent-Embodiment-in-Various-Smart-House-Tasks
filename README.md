@@ -6,6 +6,7 @@ It is future and you just bought your new smart house, and four different compan
 * One will set several smart speakers so that you could speak your command.
 * One will install an autonomous system on the house, which makes the house able to observe, interact with and support you by all devices of the house, and by rendering virtual objects or data flow as some form in the middle air, trying to satisfy your needs.
 * One will introduce you an artificial intelligence virtual assistant willing to help you, who could change its appearance, access the system, exist in and migrate between devices representing itself through screens, LEDs, and speakers of the devices, or appear and move around in the middle air as necessary.
+
 Please imagine that you are in the following situations. Which option do you feel will be most natural when using?
 
     * Use gesture or panel in air

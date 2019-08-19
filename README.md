@@ -9,10 +9,10 @@ It is future and you just bought your new smart house, and four different compan
 
 Please imagine that you are in the following situations. Which option do you feel will be most natural when using?
 
-    * Use gesture or panel in air
-    * Speak the command
-    * Interact with autonomous house
-    * Ask migratable assistant
+* Use gesture or panel in air
+* Speak the command
+* Interact with autonomous house
+* Ask migratable assistant
 
 ### Question Descriptions
 (The order was more random and labels were not displayed to the participants.)
